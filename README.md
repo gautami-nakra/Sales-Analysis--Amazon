@@ -1,4 +1,4 @@
-# Sales-Analysis--Amazon
+# Sales-Analysis--Amazon--Python
 
 ## Introduction
 
